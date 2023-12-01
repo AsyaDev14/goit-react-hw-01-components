@@ -9,18 +9,18 @@
   border-radius: 10px;
 }
 
-.friends__list {
+.friend__list {
   display: flex;
   flex-direction: column;
 }
 
-.friends__item {
+.item {
   display: flex;
   align-items: center;
   padding: 20px;
 }
 
-.friends__status {
+.status {
   width: 30px;
   height: 30px;
   border-radius: 50%;
@@ -39,7 +39,7 @@
   margin-right: 10px;
 }
 
-.friends__name {
+.name {
   font-weight: 700;
   font-size: 30px;
   margin-bottom: 15px;

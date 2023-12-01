@@ -6,11 +6,7 @@
   border-radius: 10px;
 }
 
-.transaction_table {
-  background-color: teal;
-}
-
-.title {
+.transaction_history thead th{
   font-size: 16p;
   color: #050505;
   text-align: center;
@@ -18,7 +14,11 @@
   margin-bottom: 25px;
 }
 
-.table_item {
+.transaction_history thead tr {
+  background-color: teal;
+}
+
+.transaction_history  tbody tr td {
   font-size: 16px;
   color: #050505;
   text-align: center;

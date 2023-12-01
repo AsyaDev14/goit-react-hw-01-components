@@ -17,13 +17,13 @@
   color: #524a4d;
 }
 
-.stats__list {
+.stat-list {
   display: flex;
   justify-content: space-between;
   padding: 0;
 }
 
-.stats {
+.item {
   display: flex;
   flex-direction: column;
   padding: 10px;
